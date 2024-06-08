@@ -1,9 +1,5 @@
-Enjoy the Free code + Assets 😍
+ Urban Couture
+Welcome to Urban Couture, a modern fashion website designed to showcase the latest trends and styles. Built with React.js and styled using Tailwind CSS, Urban Couture provides a sleek and responsive user experience.
+Demo
+Check out the live demo of Urban Couture: https://urbancouture.netlify.app/
 
-  - Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
-
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
